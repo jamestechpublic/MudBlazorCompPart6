@@ -2,7 +2,7 @@
 - MudOverlay
 - MudPagination
 - MudPaper
-- - Pickers
+Pickers
   - MudColorPicker
   - MudDatePicker
   - MudTimePicker
